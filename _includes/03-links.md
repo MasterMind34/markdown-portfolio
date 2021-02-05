@@ -1,1 +1,1 @@
-[Github profile] (https://github.com/MasterMind34)
+[Github profile](https://github.com/MasterMind34)
